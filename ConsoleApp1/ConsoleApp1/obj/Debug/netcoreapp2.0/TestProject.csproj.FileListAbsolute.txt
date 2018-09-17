@@ -1,0 +1,11 @@
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestProject.deps.json
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.json
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TestProject.pdb
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\MTranov\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TestProject.pdb
