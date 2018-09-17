@@ -53,7 +53,7 @@ namespace ConsoleApp1
                     grid[x, y] = true;
                     display();
                 }
-                else if (key == ConsoleKey.S && x < length-2)
+                else if (key == ConsoleKey.S && x < length-1)
                 {
                     grid[x, y] = false;
                     x++;
@@ -67,7 +67,7 @@ namespace ConsoleApp1
                     grid[x, y] = true;
                     display();
                 }
-                else if (key == ConsoleKey.D && y < width - 2)
+                else if (key == ConsoleKey.D && y < width - 1)
                 {
                     grid[x, y] = false;
                     y++;
